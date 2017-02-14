@@ -1,4 +1,6 @@
 # Wap2App
+demo github地址 ：https://github.com/xybean/Wap2App
+
 ### 一、Wap2App启动的实现
 
 ##### 1、需求（从Wap唤起查看分享）
